@@ -8,6 +8,10 @@ There is a 'save' button to export the image to a local directory.
 ### Source Image Example:
 <img src="https://github.com/nightshining/ML_Collage_App/blob/master/assets/flower2.png?raw=true" width="500" height="480"> </img>
 
+### Output Image Example: 
+
+<img src="https://github.com/nightshining/ML_Collage_App/blob/master/assets/collage_output.png?raw=true" width="500" height="480"></img>
+
 ### Running App Example:
 ![](https://github.com/nightshining/ML_Collage_App/blob/master/assets/gif_collage.gif?raw=true)
 
