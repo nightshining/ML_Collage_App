@@ -2,7 +2,8 @@
 
 ## Description: 
 
-This is a creative application that removes the background of the object within a photo and adds it into the canvas. The user can add multiple images and drag and drop the processed image into a new position within the canvas. There is a 'save' button to export the image to a local directory. 
+This is a creative application that removes the background of an object within a photo and adds it into the canvas area. The user can add multiple images and drag and drop the processed image into a new position within the canvas. 
+There is a 'save' button to export the image to a local directory. 
 
 ### Source Image Example:
 <img src="https://github.com/nightshining/ML_Collage_App/blob/master/assets/flower2.png?raw=true" width="500" height="480"> </img>
