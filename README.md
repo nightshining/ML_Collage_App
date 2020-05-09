@@ -12,7 +12,7 @@ This is a creative application that removes the background of the object within 
 
 ## Usage: 
 
-The code utilizes [P5js](https://p5js.org/) and [RunwayML](https://runwayml.com/) to access the ML library [BASNet](https://github.com/NathanUA/BASNet)'BASNet: Boundary-Aware Salient Object Detection code'.
+The code utilizes [P5js](https://p5js.org/download/) (which needs to be placed in the libraries) and [RunwayML](https://runwayml.com/) to access the ML library [BASNet](https://github.com/NathanUA/BASNet)'BASNet: Boundary-Aware Salient Object Detection code'.
 
 1. Open your terminal app within the root directory of this repo
 2. Start a local server via terminal
