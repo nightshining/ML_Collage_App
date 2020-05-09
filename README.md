@@ -2,7 +2,7 @@
 
 ## Description: 
 
-This is a simple creative app that removes the background of the object within a photo and adds it into the canvas. The user can add multiple images and drag and drop the processed image into a new position within the canvas. There is a 'save' button to export the image to a local directory. The code utilizes ![P5js](https://p5js.org/) and ![RunwayML] to access the ML library ![BASNet](https://github.com/NathanUA/BASNet)'BASNet: Boundary-Aware Salient Object Detection code'.
+This is a simple creative app that removes the background of the object within a photo and adds it into the canvas. The user can add multiple images and drag and drop the processed image into a new position within the canvas. There is a 'save' button to export the image to a local directory. The code utilizes [P5js](https://p5js.org/) and [RunwayML] to access the ML library [BASNet](https://github.com/NathanUA/BASNet)'BASNet: Boundary-Aware Salient Object Detection code'.
 
 ### Source Image
 <img src="https://github.com/nightshining/ML_Collage_App/blob/master/assets/flower2.png?raw=true" width="320" height="480"> </img>
