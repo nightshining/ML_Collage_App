@@ -8,16 +8,6 @@ function setup() {
   createCanvas(w, h);
   createButton('add image').mousePressed(generateImage);
   createButton('save').mousePressed(saveImage);
-
-  // objects
-  // let total = 5;
-  // for (let i = 0; i < total; i++) {
-  //   let x = random(width);
-  //   let y = random(height);
-  //   let r = random(20, 60);
-  //   let b = new ImageObject(x, y, r);
-  //   objects.push(b);
-  // }
 }
 
 function generateImage() {
